@@ -1,0 +1,19 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://DJokers20@bitbucket.org/DJokers20/2019oss_proj.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = Github
+	merge = refs/heads/master
+[remote "Github"]
+	url = C:\\Users\\user\\Documents\\2019oss_proj
+	fetch = +refs/heads/*:refs/remotes/Github/*
+[branch "Tes"]
+	remote = Github
+	merge = refs/heads/Tes
