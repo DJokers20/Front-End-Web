@@ -1,0 +1,34 @@
+{
+  "$id": "3",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2019-05-27T10:01:51.9738555+09:00",
+  "LastUsedView": 1,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "Branches",
+    "Remotes",
+    "Remotes/origin"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "RemoteProjectLinks": [
+    {
+      "$id": "4",
+      "BaseUrl": "https://bitbucket.org/",
+      "Identifier": "",
+      "RemoteName": "origin",
+      "Type": 0,
+      "Username": "DJokers20",
+      "CloneUrl": "https://DJokers20@bitbucket.org/DJokers20/2019oss_proj.git",
+      "ProjectUrl": "https://bitbucket.org/DJokers20/2019oss_proj",
+      "AccountId": "DJokers20@bitbucket.org",
+      "AvatarUrl": "https://bytebucket.org/ravatar/%7B97a8d175-b89d-46a3-aff5-0befe80a18df%7D?ts=default",
+      "DisplayName": "origin: https://bitbucket.org/"
+    }
+  ]
+}
